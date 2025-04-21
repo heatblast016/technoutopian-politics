@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/technoutopian-politics/static/css/main.e6c13ad2.css",
-    "main.js": "/technoutopian-politics/static/js/main.17e8c050.js",
+    "main.js": "/technoutopian-politics/static/js/main.ac4f168b.js",
     "static/js/453.82677e8d.chunk.js": "/technoutopian-politics/static/js/453.82677e8d.chunk.js",
     "index.html": "/technoutopian-politics/index.html",
     "main.e6c13ad2.css.map": "/technoutopian-politics/static/css/main.e6c13ad2.css.map",
-    "main.17e8c050.js.map": "/technoutopian-politics/static/js/main.17e8c050.js.map",
+    "main.ac4f168b.js.map": "/technoutopian-politics/static/js/main.ac4f168b.js.map",
     "453.82677e8d.chunk.js.map": "/technoutopian-politics/static/js/453.82677e8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.17e8c050.js"
+    "static/js/main.ac4f168b.js"
   ]
 }
